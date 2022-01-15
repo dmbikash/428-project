@@ -2,7 +2,7 @@
 Title:
 Real Time conversion of English Sign Language to English Written Alphabets
 
-Team Members: 
+#Team Members: 
 D M Bikash - 18101609
 Ferdousi Afrin - 18101039
 Fahim Shahrear - 18101451
